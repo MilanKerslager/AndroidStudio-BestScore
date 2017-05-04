@@ -8,7 +8,6 @@ import android.widget.TextView;
 import java.util.Random;
 
 // Program generuje náhodná čísla a zapamatuje si nejvyšší (do SharedPreferences)
-// Nastavení
 
 public class MainActivity extends AppCompatActivity {
 
